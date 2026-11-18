@@ -1,0 +1,335 @@
+{
+ "size": [
+  640,
+  640
+ ],
+ "head": [
+  0.5,
+  0.4
+ ],
+ "rest": 0.4482,
+ "path": [
+  {
+   "f": "c00.webp",
+   "u": 0.0,
+   "open": true,
+   "src": 33
+  },
+  {
+   "f": "c01.webp",
+   "u": 0.023,
+   "open": true,
+   "src": 32
+  },
+  {
+   "f": "c02.webp",
+   "u": 0.0461,
+   "open": true,
+   "src": 31
+  },
+  {
+   "f": "c03.webp",
+   "u": 0.0691,
+   "open": true,
+   "src": 30
+  },
+  {
+   "f": "c04.webp",
+   "u": 0.0922,
+   "open": true,
+   "src": 29
+  },
+  {
+   "f": "c05.webp",
+   "u": 0.1152,
+   "open": true,
+   "src": 28
+  },
+  {
+   "f": "c06.webp",
+   "u": 0.1382,
+   "open": true,
+   "src": 27
+  },
+  {
+   "f": "c07.webp",
+   "u": 0.1613,
+   "open": true,
+   "src": 26
+  },
+  {
+   "f": "c08.webp",
+   "u": 0.1843,
+   "open": true,
+   "src": 25
+  },
+  {
+   "f": "c09.webp",
+   "u": 0.2074,
+   "open": true,
+   "src": 24
+  },
+  {
+   "f": "c10.webp",
+   "u": 0.2304,
+   "open": true,
+   "src": 23
+  },
+  {
+   "f": "c11.webp",
+   "u": 0.2535,
+   "open": true,
+   "src": 22
+  },
+  {
+   "f": "c12.webp",
+   "u": 0.2765,
+   "open": true,
+   "src": 21
+  },
+  {
+   "f": "c13.webp",
+   "u": 0.2995,
+   "open": true,
+   "src": 20
+  },
+  {
+   "f": "c14.webp",
+   "u": 0.3226,
+   "open": true,
+   "src": 19
+  },
+  {
+   "f": "c15.webp",
+   "u": 0.3456,
+   "open": true,
+   "src": 18
+  },
+  {
+   "f": "c16.webp",
+   "u": 0.3537,
+   "open": false,
+   "src": 17
+  },
+  {
+   "f": "c17.webp",
+   "u": 0.3618,
+   "open": false,
+   "src": 16
+  },
+  {
+   "f": "c18.webp",
+   "u": 0.3698,
+   "open": false,
+   "src": 15
+  },
+  {
+   "f": "c19.webp",
+   "u": 0.3779,
+   "open": false,
+   "src": 14
+  },
+  {
+   "f": "c20.webp",
+   "u": 0.3859,
+   "open": false,
+   "src": 13
+  },
+  {
+   "f": "c21.webp",
+   "u": 0.394,
+   "open": false,
+   "src": 12
+  },
+  {
+   "f": "c22.webp",
+   "u": 0.4021,
+   "open": true,
+   "src": 11
+  },
+  {
+   "f": "c23.webp",
+   "u": 0.4251,
+   "open": true,
+   "src": 10
+  },
+  {
+   "f": "c24.webp",
+   "u": 0.4482,
+   "open": true,
+   "src": 9
+  },
+  {
+   "f": "c25.webp",
+   "u": 0.4827,
+   "open": true,
+   "src": 106
+  },
+  {
+   "f": "c26.webp",
+   "u": 0.5058,
+   "open": true,
+   "src": 107
+  },
+  {
+   "f": "c27.webp",
+   "u": 0.5288,
+   "open": true,
+   "src": 108
+  },
+  {
+   "f": "c28.webp",
+   "u": 0.5518,
+   "open": true,
+   "src": 109
+  },
+  {
+   "f": "c29.webp",
+   "u": 0.5749,
+   "open": true,
+   "src": 110
+  },
+  {
+   "f": "c30.webp",
+   "u": 0.5979,
+   "open": true,
+   "src": 111
+  },
+  {
+   "f": "c31.webp",
+   "u": 0.606,
+   "open": false,
+   "src": 112
+  },
+  {
+   "f": "c32.webp",
+   "u": 0.6141,
+   "open": false,
+   "src": 113
+  },
+  {
+   "f": "c33.webp",
+   "u": 0.6221,
+   "open": false,
+   "src": 114
+  },
+  {
+   "f": "c34.webp",
+   "u": 0.6302,
+   "open": false,
+   "src": 115
+  },
+  {
+   "f": "c35.webp",
+   "u": 0.6382,
+   "open": false,
+   "src": 116
+  },
+  {
+   "f": "c36.webp",
+   "u": 0.6463,
+   "open": false,
+   "src": 117
+  },
+  {
+   "f": "c37.webp",
+   "u": 0.6544,
+   "open": true,
+   "src": 118
+  },
+  {
+   "f": "c38.webp",
+   "u": 0.6774,
+   "open": true,
+   "src": 119
+  },
+  {
+   "f": "c39.webp",
+   "u": 0.7005,
+   "open": true,
+   "src": 120
+  },
+  {
+   "f": "c40.webp",
+   "u": 0.7235,
+   "open": true,
+   "src": 121
+  },
+  {
+   "f": "c41.webp",
+   "u": 0.7465,
+   "open": true,
+   "src": 122
+  },
+  {
+   "f": "c42.webp",
+   "u": 0.7696,
+   "open": true,
+   "src": 123
+  },
+  {
+   "f": "c43.webp",
+   "u": 0.7926,
+   "open": true,
+   "src": 124
+  },
+  {
+   "f": "c44.webp",
+   "u": 0.8157,
+   "open": true,
+   "src": 125
+  },
+  {
+   "f": "c45.webp",
+   "u": 0.8387,
+   "open": true,
+   "src": 126
+  },
+  {
+   "f": "c46.webp",
+   "u": 0.8618,
+   "open": true,
+   "src": 127
+  },
+  {
+   "f": "c47.webp",
+   "u": 0.8848,
+   "open": true,
+   "src": 128
+  },
+  {
+   "f": "c48.webp",
+   "u": 0.9078,
+   "open": true,
+   "src": 129
+  },
+  {
+   "f": "c49.webp",
+   "u": 0.9309,
+   "open": true,
+   "src": 130
+  },
+  {
+   "f": "c50.webp",
+   "u": 0.9539,
+   "open": true,
+   "src": 131
+  },
+  {
+   "f": "c51.webp",
+   "u": 0.977,
+   "open": true,
+   "src": 132
+  },
+  {
+   "f": "c52.webp",
+   "u": 1.0,
+   "open": true,
+   "src": 133
+  }
+ ],
+ "reaction": [],
+ "fps": 8,
+ "smile": "sorriso.webp",
+ "scale": 0.84
+}
